@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://testing-pixel-tech.github.io/bloodiest/sitemap.xml
